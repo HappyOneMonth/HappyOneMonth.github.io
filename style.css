@@ -37,6 +37,9 @@ h2{
 body{
     background-color: rgb(163, 154, 154);
 }
+.fas{
+    margin-left:3px
+}
 @media (max-width:500px){
     .image{
         width:100%;
