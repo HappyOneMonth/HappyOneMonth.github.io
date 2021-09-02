@@ -6,7 +6,7 @@
     margin-top: 5px;
     border-radius: 5px;
     line-height: 1.5;
-    font-weight: bold;
+    font-weight: 500;
 }
 html{
 font-family:Roboto ;
@@ -22,7 +22,7 @@ h1{
    
 }
 h2{
-    font-style: italic;
+    font-style: normal;
 }
 .image2{
     width:300px;
